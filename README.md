@@ -44,7 +44,4 @@ metaverse-landing/
 
 ## 📸 Preview
 
-(Add a screenshot of your design here — e.g. `assets/images/preview.png`)
-
-```markdown
-![Preview](assets/images/preview.png)
+(Added a screenshot of design here — e.g. `assets/images/Metaverse-Landing-Demo-Preview.png`)
